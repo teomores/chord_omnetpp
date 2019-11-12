@@ -1,6 +1,8 @@
-# Chord - Omnet++
+# Chord - OMNeT++
+<img src="https://img.shields.io/badge/OMNeT%2B%2B-5.5.1-orange"> <img src="https://img.shields.io/badge/INET-4.0.0-blue"> <img src="https://img.shields.io/github/license/teomores/chord_omnetpp">
+
 ## Overview
-This is an optional project for the [Distributed System](https://www11.ceda.polimi.it/schedaincarico/schedaincarico/controller/scheda_pubblica/SchedaPublic.do?&evn_default=evento&c_classe=694795&polij_device_category=DESKTOP&__pj0=0&__pj1=a23fc3e2601cfd6774f57798f3caec50) course at Politecnico di Milano. It is an Omnet++ implementation of the Chord P2P protocol as discussed in its [original paper](https://pdos.csail.mit.edu/papers/ton:chord/paper-ton.pdf), also including the protocols to stabilize the network when new peers join or leave.
+This is an optional project for the [Distributed System](https://www11.ceda.polimi.it/schedaincarico/schedaincarico/controller/scheda_pubblica/SchedaPublic.do?&evn_default=evento&c_classe=694795&polij_device_category=DESKTOP&__pj0=0&__pj1=a23fc3e2601cfd6774f57798f3caec50) course at Politecnico di Milano. It is an OMNeT++ implementation of the Chord P2P protocol as discussed in its [original paper](https://pdos.csail.mit.edu/papers/ton:chord/paper-ton.pdf), also including the protocols to stabilize the network when new peers join or leave.
 
 <p align="center">
   <img src="images/intro.png">
