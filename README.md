@@ -35,7 +35,7 @@ For the *finger table* we decided to use a deque, as we saw an similar implement
 - [Alberto Rossettini](https://github.com/albeRoss)
 
 # License
-This project is licensed under the MIT License.
+This project is licensed under the Apache License 2.0.
 
 # External Resources
 - Original [Chord paper](https://pdos.csail.mit.edu/papers/ton:chord/paper-ton.pdf)
